@@ -13,7 +13,7 @@
 
 Вам поставлена задача создать такую модель. 
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/KarpovGm/Booking_reviews_Project_3/blob/main/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
